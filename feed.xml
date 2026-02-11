@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://FAU-paleo.github.io/palmaster/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://FAU-paleo.github.io/palmaster/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://FAU-paleo.github.io/master/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://FAU-paleo.github.io/master/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>FAU Paleobiology</title>
 		<description>Friedrich-Alexander-Universität Erlangen-Nürnberg, Lehrstuhl für Paläoumwelt, GeoZentrum Nordbayern, Loewenichstr. 28 91054 Erlangen</description>
-		<link>https://FAU-paleo.github.io/palmaster/</link>
-		<atom:link href="https://FAU-paleo.github.io/palmaster/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://FAU-paleo.github.io/master/</link>
+		<atom:link href="https://FAU-paleo.github.io/master/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Admissions are closed for the 2025 academic year</title>
-				<link>https://FAU-paleo.github.io/palmaster/admission/admissions_closed_2025/</link>
+				<link>https://FAU-paleo.github.io/master/admission/admissions_closed_2025/</link>
 				<pubDate>Wed, 30 Jul 2025 00:00:00 +0200</pubDate>
 				<description>&lt;h1 id=&quot;admissions-are-closed-but&quot;&gt;Admissions are closed, but…&lt;/h1&gt;
 
@@ -18,19 +18,19 @@
 
 &lt;ul&gt;
   &lt;li&gt;Please stay in tune for updates of our webpage to find out more about us and our program.&lt;/li&gt;
-  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/palmaster/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/master/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Let us know if you have any questions! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt; if you think we can answer them.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Admissions will be open again in &lt;strong&gt;February 2026&lt;/strong&gt;.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/admission/admissions_closed_2025/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/admission/admissions_closed_2025/</guid>
 			</item>
 		
 			<item>
 				<title>Apply Now for the 2025 academic year!</title>
-				<link>https://FAU-paleo.github.io/palmaster/admission/now/</link>
+				<link>https://FAU-paleo.github.io/master/admission/now/</link>
 				<pubDate>Wed, 19 Feb 2025 00:00:00 +0100</pubDate>
 				<description>&lt;h1 id=&quot;apply-now&quot;&gt;Apply now!&lt;/h1&gt;
 
@@ -38,7 +38,7 @@
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;small-12 text-center columns&quot;&gt;
-    &lt;p&gt;&lt;a class=&quot;button large radius alert&quot; href=&quot;/palmaster/admission/process/&quot;&gt;Click to learn more about the application process!&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;button large radius alert&quot; href=&quot;/master/admission/process/&quot;&gt;Click to learn more about the application process!&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
@@ -70,12 +70,12 @@ Based on our experience, unless we can process your application way before the f
 &lt;p&gt;Please let us know if you are interested in applying to the program, so we can provide assistance! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt;, and we will answer your questions and help you move forward!&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/admission/now/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/admission/now/</guid>
 			</item>
 		
 			<item>
 				<title>Winter Semester 2024 (2nd Year)</title>
-				<link>https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S3_W2024/</link>
+				<link>https://FAU-paleo.github.io/master/resources/curriculum/timetable_S3_W2024/</link>
 				<pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate>
 				<description>&lt;h3 id=&quot;year-2-3rd-semester&quot;&gt;Year 2 (3rd Semester)&lt;/h3&gt;
 
@@ -121,7 +121,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/proxies/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/proxies/&quot;&gt;
 			&lt;strong&gt;Proxies in Paleoenvironmental Reconstructions&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -166,7 +166,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/reefs/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/reefs/&quot;&gt;
 			&lt;strong&gt;Geobiology of Reefs&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -207,7 +207,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rp_design/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rp_design/&quot;&gt;
 			  &lt;strong&gt;Seminar&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -257,7 +257,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/programming_and_stats/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/programming_and_stats/&quot;&gt;
 			&lt;strong&gt;Programming and statistics in reef system analysis&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -309,7 +309,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;13&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/microfacies/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/microfacies/&quot;&gt;
 			&lt;strong&gt;Microfacies Analysis and Diagenesis of Carbonate Rocks&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -338,7 +338,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rp_design/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rp_design/&quot;&gt;
 			&lt;strong&gt;Research Project Design&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -371,7 +371,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/science_communication/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/science_communication/&quot;&gt;
 			&lt;strong&gt;Science Communication&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -424,7 +424,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/macroecology/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/macroecology/&quot;&gt;
 			&lt;strong&gt;Macroecology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -620,12 +620,12 @@ Based on our experience, unless we can process your application way before the f
 &lt;/table&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S3_W2024/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/resources/curriculum/timetable_S3_W2024/</guid>
 			</item>
 		
 			<item>
 				<title>Winter Semester 2024 (1st Year)</title>
-				<link>https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S1_W2024/</link>
+				<link>https://FAU-paleo.github.io/master/resources/curriculum/timetable_S1_W2024/</link>
 				<pubDate>Fri, 04 Oct 2024 00:00:00 +0200</pubDate>
 				<description>&lt;h3 id=&quot;year-1-1st-semester&quot;&gt;Year 1 (1st Semester)&lt;/h3&gt;
 
@@ -695,7 +695,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;3&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/oceanography/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/oceanography/&quot;&gt;
 			&lt;strong&gt;Oceanography&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -749,7 +749,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rp_design/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rp_design/&quot;&gt;
 			&lt;strong&gt;Seminar&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -770,7 +770,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/microfossils/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/microfossils/&quot;&gt;
 			&lt;strong&gt;Micropaleontology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -850,7 +850,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/literature_seminar/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/literature_seminar/&quot;&gt;
 			&lt;strong&gt;Literature Seminar&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -872,7 +872,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;3&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/biostrat/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/biostrat/&quot;&gt;
 			&lt;strong&gt;Biostratigraphy&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -954,7 +954,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/biofacies/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/biofacies/&quot;&gt;
 			&lt;strong&gt;Introduction to Paleoenvironmental Reconstruction&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -968,7 +968,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rcourse/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rcourse/&quot;&gt;
 			&lt;strong&gt;Consolidation of R Programming Skills&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1062,7 +1062,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;12&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/invertebrates/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/invertebrates/&quot;&gt;
 			&lt;strong&gt;Invertebrate Paleobiology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1084,7 +1084,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/geochemistry/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/geochemistry/&quot;&gt;
 			&lt;strong&gt;Geochemical proxies in palaeoenvironmental analysis&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1190,12 +1190,12 @@ Based on our experience, unless we can process your application way before the f
 &lt;/table&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S1_W2024/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/resources/curriculum/timetable_S1_W2024/</guid>
 			</item>
 		
 			<item>
 				<title>Admissions are closed for the 2024 academic year</title>
-				<link>https://FAU-paleo.github.io/palmaster/admission/admissions_closed_2024/</link>
+				<link>https://FAU-paleo.github.io/master/admission/admissions_closed_2024/</link>
 				<pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate>
 				<description>&lt;h1 id=&quot;admissions-are-closed-but&quot;&gt;Admissions are closed, but…&lt;/h1&gt;
 
@@ -1203,19 +1203,19 @@ Based on our experience, unless we can process your application way before the f
 
 &lt;ul&gt;
   &lt;li&gt;Please stay in tune for updates of our webpage to find out more about us and our program.&lt;/li&gt;
-  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/palmaster/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/master/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Let us know if you have any questions! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt; if you think we can answer them.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Admissions will be open again in &lt;strong&gt;February 2025&lt;/strong&gt;.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/admission/admissions_closed_2024/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/admission/admissions_closed_2024/</guid>
 			</item>
 		
 			<item>
 				<title>Apply Now for the 2024 academic year!</title>
-				<link>https://FAU-paleo.github.io/palmaster/admission/2024/</link>
+				<link>https://FAU-paleo.github.io/master/admission/2024/</link>
 				<pubDate>Mon, 19 Feb 2024 00:00:00 +0100</pubDate>
 				<description>&lt;h1 id=&quot;apply-now&quot;&gt;Apply now!&lt;/h1&gt;
 
@@ -1223,7 +1223,7 @@ Based on our experience, unless we can process your application way before the f
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;small-12 text-center columns&quot;&gt;
-    &lt;p&gt;&lt;a class=&quot;button large radius alert&quot; href=&quot;/palmaster/admission/process/&quot;&gt;Click to learn more about the application process!&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a class=&quot;button large radius alert&quot; href=&quot;/master/admission/process/&quot;&gt;Click to learn more about the application process!&lt;/a&gt;&lt;/p&gt;
   &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
@@ -1255,12 +1255,12 @@ Based on our experience, unless we can process your application way before the f
 &lt;p&gt;Please let us know if you are interested in applying to the program, so we can provide assistance! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt;, and we will answer your questions and help you move forward!&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/admission/2024/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/admission/2024/</guid>
 			</item>
 		
 			<item>
 				<title>Winter Semester 2023 (2nd Year)</title>
-				<link>https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S3_W2023/</link>
+				<link>https://FAU-paleo.github.io/master/resources/curriculum/timetable_S3_W2023/</link>
 				<pubDate>Tue, 10 Oct 2023 00:00:00 +0200</pubDate>
 				<description>&lt;h3 id=&quot;year-2-3rd-semester&quot;&gt;Year 2 (3rd Semester)&lt;/h3&gt;
 
@@ -1306,7 +1306,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/proxies/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/proxies/&quot;&gt;
 			&lt;strong&gt;Proxies in Paleoenvironmental Reconstructions&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1342,7 +1342,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/reefs/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/reefs/&quot;&gt;
 			&lt;strong&gt;Geobiology of Reefs&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1391,7 +1391,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rp_design/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rp_design/&quot;&gt;
 			  &lt;strong&gt;Seminar&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1442,7 +1442,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/programming_and_stats/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/programming_and_stats/&quot;&gt;
 			&lt;strong&gt;Programming and statistics in reef system analysis&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1494,7 +1494,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;13&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/microfacies/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/microfacies/&quot;&gt;
 			&lt;strong&gt;Microfacies Analysis and Diagenesis of Carbonate Rocks&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1523,7 +1523,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rp_design/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rp_design/&quot;&gt;
 			&lt;strong&gt;Research Project Design&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1556,7 +1556,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/science_communication/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/science_communication/&quot;&gt;
 			&lt;strong&gt;Science Communication&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1601,7 +1601,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/macroecology/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/macroecology/&quot;&gt;
 			&lt;strong&gt;Macroecology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1805,12 +1805,12 @@ Based on our experience, unless we can process your application way before the f
 &lt;/table&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S3_W2023/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/resources/curriculum/timetable_S3_W2023/</guid>
 			</item>
 		
 			<item>
 				<title>Winter Semester 2023 (1st Year)</title>
-				<link>https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S1_W2023/</link>
+				<link>https://FAU-paleo.github.io/master/resources/curriculum/timetable_S1_W2023/</link>
 				<pubDate>Tue, 10 Oct 2023 00:00:00 +0200</pubDate>
 				<description>&lt;h3 id=&quot;year-1-1st-semester&quot;&gt;Year 1 (1st Semester)&lt;/h3&gt;
 
@@ -1856,7 +1856,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rcourse/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rcourse/&quot;&gt;
 			&lt;strong&gt;Consolidation of R Programming Skills&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1891,7 +1891,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;3&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/oceanography/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/oceanography/&quot;&gt;
 			&lt;strong&gt;Oceanography&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -1942,7 +1942,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/rp_design/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/rp_design/&quot;&gt;
 			&lt;strong&gt;Seminar&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2035,7 +2035,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/literature_seminar/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/literature_seminar/&quot;&gt;
 			&lt;strong&gt;Literature Seminar&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2057,7 +2057,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;3&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/biostrat/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/biostrat/&quot;&gt;
 			&lt;strong&gt;Biostratigraphy&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2149,7 +2149,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/biofacies/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/biofacies/&quot;&gt;
 			&lt;strong&gt;Introduction to Paleoenvironmental Reconstruction&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2164,7 +2164,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/microfossils/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/microfossils/&quot;&gt;
 			&lt;strong&gt;Micropaleontology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2247,7 +2247,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;12&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/invertebrates/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/invertebrates/&quot;&gt;
 			&lt;strong&gt;Invertebrate Paleobiology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2269,7 +2269,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;6&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/geochemistry/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/geochemistry/&quot;&gt;
 			&lt;strong&gt;Geochemical proxies in palaeoenvironmental analysis&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2375,12 +2375,12 @@ Based on our experience, unless we can process your application way before the f
 &lt;/table&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/resources/curriculum/timetable_S1_W2023/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/resources/curriculum/timetable_S1_W2023/</guid>
 			</item>
 		
 			<item>
 				<title>Admissions are closed for the 2024 academic year</title>
-				<link>https://FAU-paleo.github.io/palmaster/admission/admissions_closed_2023/</link>
+				<link>https://FAU-paleo.github.io/master/admission/admissions_closed_2023/</link>
 				<pubDate>Mon, 17 Jul 2023 00:00:00 +0200</pubDate>
 				<description>&lt;h1 id=&quot;admissions-are-closed-but&quot;&gt;Admissions are closed, but…&lt;/h1&gt;
 
@@ -2388,26 +2388,26 @@ Based on our experience, unless we can process your application way before the f
 
 &lt;ul&gt;
   &lt;li&gt;Please stay in tune for updates of our webpage to find out more about us and our program.&lt;/li&gt;
-  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/palmaster/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/master/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Let us know if you have any questions! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt; if you think we can answer them.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Admissions will be open again in &lt;strong&gt;February 2024&lt;/strong&gt;.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/admission/admissions_closed_2023/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/admission/admissions_closed_2023/</guid>
 			</item>
 		
 			<item>
 				<title>Summer Semester 2023 (1st Year)</title>
-				<link>https://FAU-paleo.github.io/palmaster/for_students/curriculum/timetable_S2_W2023/</link>
+				<link>https://FAU-paleo.github.io/master/for_students/curriculum/timetable_S2_W2023/</link>
 				<pubDate>Tue, 04 Apr 2023 00:00:00 +0200</pubDate>
 				<description>&lt;h3 id=&quot;year-1-2nd-semester&quot;&gt;Year 1 (2nd Semester)&lt;/h3&gt;
 
-&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/palmaster/program/courses/hypothesis_testing/&quot;&gt; Hypothesis testing &lt;/a&gt; is a block course between April 3-6. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/palmaster/program/courses/phylogenetics/&quot;&gt; Phylogenetics &lt;/a&gt; includes &lt;a href=&quot;https://FAU-paleo.github.io/palmaster/program/courses/modelling/&quot;&gt;Statistical modelling. &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/palmaster/program/courses/rp_implementation/&quot;&gt;Research Project implementation&lt;/a&gt; is an 8 week project. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/palmaster/program/courses/earth_data/&quot;&gt;Climate and Earth System Data&lt;/a&gt; will be a block course between July 24 and 28. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/master/program/courses/hypothesis_testing/&quot;&gt; Hypothesis testing &lt;/a&gt; is a block course between April 3-6. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/master/program/courses/phylogenetics/&quot;&gt; Phylogenetics &lt;/a&gt; includes &lt;a href=&quot;https://FAU-paleo.github.io/master/program/courses/modelling/&quot;&gt;Statistical modelling. &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/master/program/courses/rp_implementation/&quot;&gt;Research Project implementation&lt;/a&gt; is an 8 week project. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://FAU-paleo.github.io/master/program/courses/earth_data/&quot;&gt;Climate and Earth System Data&lt;/a&gt; will be a block course between July 24 and 28. &lt;/li&gt;
 
 &lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -2441,7 +2441,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;11&quot; bgcolor=&quot;#ffe599&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/lab_methods/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/lab_methods/&quot;&gt;
 			&lt;strong&gt;Laboratory Methods in Paleoenvironmental Research&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2606,7 +2606,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;4&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/vertebrates/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/vertebrates/&quot;&gt;
 			&lt;strong&gt;Vertebrate Paleobiology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2702,7 +2702,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;8&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/phylogenetics/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/phylogenetics/&quot;&gt;
 			&lt;strong&gt;Phylogenetics for Paleobiology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2717,7 +2717,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;12&quot; bgcolor=&quot;#00bbff&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/ethics/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/ethics/&quot;&gt;
 			&lt;strong&gt;Ethics and Law in Geoscience Research&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2789,7 +2789,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;12&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/analytical_paleo/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/analytical_paleo/&quot;&gt;
 			&lt;strong&gt;Analytical Paleobiology&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2825,7 +2825,7 @@ Based on our experience, unless we can process your application way before the f
 	
 	&lt;td rowspan=&quot;4&quot; bgcolor=&quot;#b6d7a8&quot;&gt; 
 		&lt;div align=&quot;center&quot;&gt;
-			&lt;a href=&quot;/palmaster/program/courses/macroevolution/&quot;&gt;
+			&lt;a href=&quot;/master/program/courses/macroevolution/&quot;&gt;
 			&lt;strong&gt;Macroevolution&lt;/strong&gt;
 			&lt;/a&gt;
 		&lt;/div&gt; 
@@ -2931,7 +2931,7 @@ Based on our experience, unless we can process your application way before the f
 &lt;/table&gt;
 
 </description>
-				<guid isPermaLink="true">https://FAU-paleo.github.io/palmaster/for_students/curriculum/timetable_S2_W2023/</guid>
+				<guid isPermaLink="true">https://FAU-paleo.github.io/master/for_students/curriculum/timetable_S2_W2023/</guid>
 			</item>
 		
 	</channel>

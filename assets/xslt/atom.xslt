@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://FAU-paleo.github.io/palmaster/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://FAU-paleo.github.io/master/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://FAU-paleo.github.io/palmaster/assets/js/modernizr.min.js"></script>
+	<script src="https://FAU-paleo.github.io/master/assets/js/modernizr.min.js"></script>
 
 	
 
@@ -26,13 +26,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://FAU-paleo.github.io/palmaster/assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://FAU-paleo.github.io/master/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Friedrich-Alexander-Universität Erlangen-Nürnberg, Lehrstuhl für Paläoumwelt, GeoZentrum Nordbayern, Loewenichstr. 28 91054 Erlangen">
-	<meta property="og:url" content="https://FAU-paleo.github.io/palmaster/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://FAU-paleo.github.io/master/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="FAU Paleobiology">
@@ -47,37 +47,37 @@
 	<meta name="twitter:creator" content="PalaeoFAU">
 	<meta name="twitter:title" content="Atom Feed (Styled)">
 	<meta name="twitter:description" content="International Master's in Paleobiology, FAU Erlangen-Nürnberg">
-	<meta name="twitter:image" content="https://FAU-paleo.github.io/palmaster/twitter_card_winter.png">
+	<meta name="twitter:image" content="https://FAU-paleo.github.io/master/twitter_card_winter.png">
 	
 
-	<link type="text/plain" rel="author" href="https://FAU-paleo.github.io/palmaster/humans.txt">
+	<link type="text/plain" rel="author" href="https://FAU-paleo.github.io/master/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://fau-paleo.github.io/palmaster/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://fau-paleo.github.io/master/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://fau-paleo.github.io/palmaster/assets/img/android-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://fau-paleo.github.io/master/assets/img/android-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-180x180.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://fau-paleo.github.io/master/assets/img/apple-icon-180x180.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://fau-paleo.github.io/master/assets/img/apple-icon-152x152.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://fau-paleo.github.io/master/assets/img/apple-icon-144x144.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://fau-paleo.github.io/master/assets/img/apple-icon-120x120.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://fau-paleo.github.io/master/assets/img/apple-icon-114x114.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://fau-paleo.github.io/master/assets/img/apple-icon-76x76.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://fau-paleo.github.io/master/assets/img/apple-icon-72x72.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://fau-paleo.github.io/palmaster/assets/img/apple-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://fau-paleo.github.io/master/assets/img/apple-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://fau-paleo.github.io/palmaster/assets/img/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="https://fau-paleo.github.io/master/assets/img/ms-icon-144x144.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -96,8 +96,8 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-			<a class="show-for-small-only" href="https://FAU-paleo.github.io/palmaster/" style="border-radius:3%/6%"><img src="https://FAU-paleo.github.io/palmaster/assets/img/Icon_winter.png" style="height:50px"></a>
-			<a class="show-for-medium-only" href="https://FAU-paleo.github.io/palmaster/" style="border-radius:3%/6%"><img src="https://FAU-paleo.github.io/palmaster/assets/img/Icon_winter.png" style="height:50px"></a>
+			<a class="show-for-small-only" href="https://FAU-paleo.github.io/master/" style="border-radius:3%/6%"><img src="https://FAU-paleo.github.io/master/assets/img/Icon_winter.png" style="height:50px"></a>
+			<a class="show-for-medium-only" href="https://FAU-paleo.github.io/master/" style="border-radius:3%/6%"><img src="https://FAU-paleo.github.io/master/assets/img/Icon_winter.png" style="height:50px"></a>
 
  
 
@@ -108,17 +108,17 @@
     <section class="top-bar-section">
 
       <ul class="left">
-		<li><a href="https://FAU-paleo.github.io/palmaster" style="border-radius:3%/6%">
-			<img src="https://FAU-paleo.github.io/palmaster/assets/img/Icon_winter.png" style="height:50px">
+		<li><a href="https://FAU-paleo.github.io/master" style="border-radius:3%/6%">
+			<img src="https://FAU-paleo.github.io/master/assets/img/Icon_winter.png" style="height:50px">
 		 </a>
 		</li>
 		<!--
 		<li><a href="https://www.nat.fau.eu/">
-		  <img src="/palmaster/images/logos/FAU_NatFak.svg" alt="Faculty of sciences" style="height:45px">
+		  <img src="/master/images/logos/FAU_NatFak.svg" alt="Faculty of sciences" style="height:45px">
 		</a>
 		</li>
 		<li><a href="https://www.gzn.nat.fau.de/">
-			<img src="/palmaster/images/logos/GeoZentrum.svg" style="height:45px">
+			<img src="/master/images/logos/GeoZentrum.svg" style="height:45px">
 		 </a>
 		</li> -->
         
@@ -170,19 +170,19 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://FAU-paleo.github.io/palmaster/about/erlangen_and_the_FAU/" style="border-top-left-radius:5%;border-top-right-radius:5%">About</a>
+                <a  href="https://FAU-paleo.github.io/master/about/erlangen_and_the_FAU/" style="border-top-left-radius:5%;border-top-right-radius:5%">About</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/about/erlangen_and_the_FAU/">Erlangen and The FAU</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/about/erlangen_and_the_FAU/">Erlangen and The FAU</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/about/our_science/">Our Science</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/about/our_science/">Our Science</a></li>
                     
                   </ul>
 
@@ -202,29 +202,29 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://FAU-paleo.github.io/palmaster/program/outline/" style="border-top-left-radius:5%;border-top-right-radius:5%">The Program</a>
+                <a  href="https://FAU-paleo.github.io/master/program/outline/" style="border-top-left-radius:5%;border-top-right-radius:5%">The Program</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/program/outline/">Outline</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/program/outline/">Outline</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/program/highlights/">Highlights</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/program/highlights/">Highlights</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/program/courses/">Courses</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/program/courses/">Courses</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/program/perspectives/">Career Perspectives</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/program/perspectives/">Career Perspectives</a></li>
                     
                   </ul>
 
@@ -244,14 +244,14 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://FAU-paleo.github.io/palmaster/people/instructors/" style="border-top-left-radius:5%;border-top-right-radius:5%">People</a>
+                <a  href="https://FAU-paleo.github.io/master/people/instructors/" style="border-top-left-radius:5%;border-top-right-radius:5%">People</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/people/instructors/">Instructors</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/people/instructors/">Instructors</a></li>
                     
                   </ul>
 
@@ -271,24 +271,24 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://FAU-paleo.github.io/palmaster/admission/" style="border-top-left-radius:5%;border-top-right-radius:5%">Admissions</a>
+                <a  href="https://FAU-paleo.github.io/master/admission/" style="border-top-left-radius:5%;border-top-right-radius:5%">Admissions</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/admission/requirements/">Requirements</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/admission/requirements/">Requirements</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/admission/financing/">Financing your studies</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/admission/financing/">Financing your studies</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/admission/process/">The application process</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/admission/process/">The application process</a></li>
                     
                   </ul>
 
@@ -308,24 +308,24 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://FAU-paleo.github.io/palmaster/resources/" style="border-top-left-radius:5%;border-top-right-radius:5%">Resources</a>
+                <a  href="https://FAU-paleo.github.io/master/resources/" style="border-top-left-radius:5%;border-top-right-radius:5%">Resources</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/resources/first_steps/">First Steps</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/resources/first_steps/">First Steps</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/resources/student_life/">Student Life</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/resources/student_life/">Student Life</a></li>
                     
 
                       
 
-                      <li><a  href="https://FAU-paleo.github.io/palmaster/resources/curriculum/">Curriculum</a></li>
+                      <li><a  href="https://FAU-paleo.github.io/master/resources/curriculum/">Curriculum</a></li>
                     
                   </ul>
 
@@ -344,8 +344,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://fau-paleo.github.io/palmaster/" title="FAU Paleobiology – International Master's in Paleobiology">
-				<img src="https://FAU-paleo.github.io/palmaster/assets/img/FAU_Paleobiology_winter.png" alt="FAU Paleobiology – International Master's in Paleobiology">
+			<a id="logo" href="https://fau-paleo.github.io/master/" title="FAU Paleobiology – International Master's in Paleobiology">
+				<img src="https://FAU-paleo.github.io/master/assets/img/FAU_Paleobiology_winter.png" alt="FAU Paleobiology – International Master's in Paleobiology">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -435,7 +435,7 @@
       <div id="footer">
 		<div class="row">
 		  <div class="large-3 medium-3 small-12 columns" style="float:left;margin-top:12px">
-		  <img src="/palmaster/images/logos/FAU_black.svg" alt="Faculty of sciences" style="height:55px">
+		  <img src="/master/images/logos/FAU_black.svg" alt="Faculty of sciences" style="height:55px">
 		  </div>
 		  <div class="large-3 medium-3 small-12 columns" style="float:left">
 			<p style="margin-bottom:0px">Friedrich-Alexander-Universität</p>
@@ -446,11 +446,11 @@
 		  </div>
 		  <div class="large-6 medium-6 small-12 columns" style="text-a:right">
 			  <ul style="list-style-type:none">
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/palmaster/imprint/">Imprint</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/palmaster/privacy/">Privacy</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/palmaster/accessibility/">Accessibility</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/palmaster/contacts/">Contacts</a></li>
-				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/palmaster/downloads/">Downloads</a></li>
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/master/imprint/">Imprint</a></li>
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/master/privacy/">Privacy</a></li>
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/master/accessibility/">Accessibility</a></li>
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/master/contacts/">Contacts</a></li>
+				<li style="text-align:center; display:block; float:right; padding:12px;"><a href="https://FAU-paleo.github.io/master/downloads/">Downloads</a></li>
 			</ul>
 		  </div>
 		</div><!-- /.row -->
@@ -460,7 +460,7 @@
 		
 
 
-<script src="https://FAU-paleo.github.io/palmaster/assets/js/javascript.min.js"></script>
+<script src="https://FAU-paleo.github.io/master/assets/js/javascript.min.js"></script>
 
 
 
