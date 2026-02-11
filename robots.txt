@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://FAU-paleo.github.io/palmaster/sitemap.xml
