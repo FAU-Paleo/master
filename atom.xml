@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://FAU-paleo.github.io/master/</id>
 	<title>FAU Paleobiology</title>
-	<updated>2026-04-08T16:11:29+02:00</updated>
+	<updated>2026-10-22T11:23:57+02:00</updated>
 
 	<subtitle>Friedrich-Alexander-Universität Erlangen-Nürnberg, Lehrstuhl für Paläoumwelt, GeoZentrum Nordbayern, Loewenichstr. 28 91054 Erlangen</subtitle>
 
@@ -24,6 +24,43 @@
 
 	<generator uri="http://jekyllrb.com" version="4.2.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://FAU-paleo.github.io/master/admission/admissions_closed_2026/</id>
+			<title>Admissions are closed for the 2026 academic year</title>
+			<link href="https://FAU-paleo.github.io/master/admission/admissions_closed_2026/" rel="alternate" type="text/html" title="Admissions are closed for the 2026 academic year" />
+			<updated>2026-08-01T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>kocsis</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://FAU-paleo.github.io/master/admission/admissions_closed_2026/">&lt;h1 id=&quot;admissions-are-closed-but&quot;&gt;Admissions are closed, but…&lt;/h1&gt;
+
+&lt;p&gt;Even though you cannot apply to our program at the moment, there is a couple of things that you can do to increase your chances next year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Please stay in tune for updates of our webpage to find out more about us and our program.&lt;/li&gt;
+  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/master/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Let us know if you have any questions! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt; if you think we can answer them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Admissions will be open again in &lt;strong&gt;February 2027&lt;/strong&gt;.&lt;/p&gt;
+
+</content>
+
+			
+			
+
+			<published>2026-08-01T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://FAU-paleo.github.io/master/admission/now/</id>
@@ -2591,43 +2628,6 @@ Based on our experience, unless we can process your application way before the f
 			
 
 			<published>2023-10-10T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://FAU-paleo.github.io/master/admission/admissions_closed_2023/</id>
-			<title>Admissions are closed for the 2024 academic year</title>
-			<link href="https://FAU-paleo.github.io/master/admission/admissions_closed_2023/" rel="alternate" type="text/html" title="Admissions are closed for the 2024 academic year" />
-			<updated>2023-07-17T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>kocsis</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://FAU-paleo.github.io/master/admission/admissions_closed_2023/">&lt;h1 id=&quot;admissions-are-closed-but&quot;&gt;Admissions are closed, but…&lt;/h1&gt;
-
-&lt;p&gt;Even though you cannot apply to our program at the moment, there is a couple of things that you can do to increase your chances next year:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Please stay in tune for updates of our webpage to find out more about us and our program.&lt;/li&gt;
-  &lt;li&gt;You can secure a scholarship for your studies, which has to preceed your application. Please check out some options &lt;a href=&quot;https://FAU-paleo.github.io/master/admission/financing/#scholarships-and-grants&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Let us know if you have any questions! Write us at &lt;a href=&quot;mailto:pal-master@fau.de?subject=Question%20about%20application&quot;&gt;pal-master@fau.de&lt;/a&gt; if you think we can answer them.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Admissions will be open again in &lt;strong&gt;February 2024&lt;/strong&gt;.&lt;/p&gt;
-
-</content>
-
-			
-			
-
-			<published>2023-07-17T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
